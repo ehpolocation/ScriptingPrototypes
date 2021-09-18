@@ -1,6 +1,6 @@
 # ScriptingPrototypes
-A mini-game and prototype compilation created when I was still in school.
-Each game was made to match an assignments requirements.
+###A mini-game and prototype compilation created when I was still in school.
+###Each game was made to match an assignments requirements.
 
 Requirements:
 Number Guesser - Use a random number generator to output a number 
